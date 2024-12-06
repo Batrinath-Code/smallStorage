@@ -1,9 +1,32 @@
-{
-"blog" : [{title: "Elevate Your Customer Experience with Widezo: The Leading Zoho CRM Implementation Partner in Pondicherry"
-read_time: "5 Mins ",
-post_date: "2024-11-13",
-author: "batrinath",
-image: "blogOne.svg",
-tag: "Websites",
-descritpion: "In today’s fast-paced business world, a Customer Relationship Management (CRM) system isn’t just a tool; it’s an essential strategy for building lasting relationships with customers. As the only Zoho Implementation Partner in Pondicherry and the Union Territory, Widezo offers expert services designed to enhance every step of the customer journey, from initial contact to building lifelong loyalty."}]
-}
+[
+  {
+    "id": 1,
+    "title": "Understanding React",
+    "author": "Jane Doe",
+    "date": "2024-12-01",
+    "read_time": "5 Mins ",
+    "content": "In today’s fast-paced business world, a Customer Relationship Management (CRM) system isn’t just a tool; it’s an essential strategy for building lasting relationships with customers. As the only Zoho Implementation Partner in Pondicherry and the Union Territory, Widezo offers expert services designed to enhance every step of the customer journey, from initial contact to building lifelong loyalty."
+    "tags": ["React", "JavaScript", "Frontend"],
+    "image": "https://example.com/images/react-intro.jpg",
+  },
+  {
+    "id": 2,
+    "title": "Next.js: The Framework for Production",
+    "author": "John Smith",
+    "date": "2024-11-20",
+        "read_time": "5 Mins ",
+    "content": "Next.js provides features like SSR and static site generation, making it a go-to choice for production-ready apps. Let's dive in!",
+    "tags": ["Next.js", "SSR", "Static Generation"],
+    "image": "https://example.com/images/nextjs-guide.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Mastering CSS Grid",
+    "author": "Emily White",
+    "date": "2024-11-10",
+        "read_time": "5 Mins ",
+    "content": "CSS Grid is a powerful layout system. This guide takes you through the fundamentals and advanced techniques.",
+    "tags": ["CSS", "CSS Grid", "Design"],
+    "image": "https://example.com/images/css-grid.jpg"
+  }
+]
