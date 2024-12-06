@@ -9,7 +9,7 @@
     "read_time": "5 Mins",
     "content": "In today’s fast-paced business world, a Customer Relationship Management (CRM) system isn’t just a tool; it’s an essential strategy for building lasting relationships with customers. As the only Zoho Implementation Partner in Pondicherry and the Union Territory, Widezo offers expert services designed to enhance every step of the customer journey, from initial contact to building lifelong loyalty.",
     "tags": ["React", "JavaScript", "Frontend"],
-    "image": "blog1main.svg"
+    "image": "https://media.licdn.com/dms/image/v2/D5612AQFV-NnzixRiFQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1733395466261?e=2147483647&v=beta&t=fvl04pkMqKxk-GycKmZ0M6lLV-lrSZjWLjsTngpYVgQ"
   },
   {
     "id": 2,
@@ -69,6 +69,6 @@
     "read_time": "5 Mins",
     "content": "CSS Grid is a powerful layout system. This guide takes you through the fundamentals and advanced techniques.",
     "tags": ["CSS", "CSS Grid", "Design"],
-    "image": "blog2main.png"
+    "image": "https://media.licdn.com/dms/image/v2/D5612AQFV-NnzixRiFQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1733395466261?e=2147483647&v=beta&t=fvl04pkMqKxk-GycKmZ0M6lLV-lrSZjWLjsTngpYVgQ"
   }
 ]
