@@ -9,7 +9,7 @@
     "read_time": "5 Mins",
     "content": "In today’s fast-paced business world, a Customer Relationship Management (CRM) system isn’t just a tool; it’s an essential strategy for building lasting relationships with customers. As the only Zoho Implementation Partner in Pondicherry and the Union Territory, Widezo offers expert services designed to enhance every step of the customer journey, from initial contact to building lifelong loyalty.",
     "tags": ["React", "JavaScript", "Frontend"],
-    "image": "https://example.com/images/react-intro.jpg"
+    "image": "blog1main.svg"
   },
   {
     "id": 2,
@@ -21,7 +21,7 @@
     "read_time": "5 Mins",
     "content": "Next.js provides features like SSR and static site generation, making it a go-to choice for production-ready apps. Let's dive in!",
     "tags": ["Next.js", "SSR", "Static Generation"],
-    "image": "https://example.com/images/nextjs-guide.jpg"
+    "image": "blog2main.png"
   },
   {
     "id": 3,
@@ -45,7 +45,7 @@
     "read_time": "5 Mins",
     "content": "In today’s fast-paced business world, a Customer Relationship Management (CRM) system isn’t just a tool; it’s an essential strategy for building lasting relationships with customers. As the only Zoho Implementation Partner in Pondicherry and the Union Territory, Widezo offers expert services designed to enhance every step of the customer journey, from initial contact to building lifelong loyalty.",
     "tags": ["React", "JavaScript", "Frontend"],
-    "image": "https://example.com/images/react-intro.jpg"
+    "image": "blog2main.png"
   },
   {
     "id": 5,
@@ -57,7 +57,7 @@
     "read_time": "5 Mins",
     "content": "Next.js provides features like SSR and static site generation, making it a go-to choice for production-ready apps. Let's dive in!",
     "tags": ["Next.js", "SSR", "Static Generation"],
-    "image": "https://example.com/images/nextjs-guide.jpg"
+    "image": "blog2main.png"
   },
   {
     "id": 6,
@@ -69,6 +69,6 @@
     "read_time": "5 Mins",
     "content": "CSS Grid is a powerful layout system. This guide takes you through the fundamentals and advanced techniques.",
     "tags": ["CSS", "CSS Grid", "Design"],
-    "image": "https://example.com/images/css-grid.jpg"
+    "image": "blog2main.png"
   }
 ]
