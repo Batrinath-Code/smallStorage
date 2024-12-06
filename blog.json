@@ -28,5 +28,25 @@
     "content": "CSS Grid is a powerful layout system. This guide takes you through the fundamentals and advanced techniques.",
     "tags": ["CSS", "CSS Grid", "Design"],
     "image": "https://example.com/images/css-grid.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Mastering CSS Grid",
+    "author": "Emily White",
+    "date": "2024-11-10",
+        "read_time": "5 Mins ",
+    "content": "CSS Grid is a powerful layout system. This guide takes you through the fundamentals and advanced techniques.",
+    "tags": ["CSS", "CSS Grid", "Design"],
+    "image": "https://example.com/images/css-grid.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Mastering CSS Grid",
+    "author": "Emily White",
+    "date": "2024-11-10",
+        "read_time": "5 Mins ",
+    "content": "CSS Grid is a powerful layout system. This guide takes you through the fundamentals and advanced techniques.",
+    "tags": ["CSS", "CSS Grid", "Design"],
+    "image": "https://example.com/images/css-grid.jpg"
   }
 ]
